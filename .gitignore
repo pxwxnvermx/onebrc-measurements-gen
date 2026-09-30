@@ -6,4 +6,3 @@ build-*/
 docgen_tmp/
 data/
 *.txt
-*.csv
